@@ -56,7 +56,19 @@ kemudian hasil formatnya akan seperti ini.
 
 Simpan kembali dan amatilah perubahannya dengan 
 melakukan refresh pada web browser.
-Selanjutnya silahkan  diubah-ubah atributnya (<i>align => justify, left, right, dan center<i>) untuk melihat
+Selanjutnya silahkan  diubah-ubah atributnya (<i>align => justify, left, right, dan center</i>) untuk melihat
 perbedaan lainnya.
 
 ## 2. Menambahkan Judul
+
+Seperti sudah dijelaskan pada materi bahwa judul (h) memiliki 6 level yaitu mulai h1 sampai h6.
+Kemudian tambahkan judul h1 <b>sebelum</b> paragraf pertama dan tambahkan sub judul h2 <strong>sebelum</strong>
+paragraf kedua.
+
+![judul](foto/judul.png)
+
+Simpan perubahan tersebut dan lihat dengan melakukan refresh pada browser.
+
+![hasil judul](foto/hasil_judul.png)
+
+## 3. Memformat Teks
