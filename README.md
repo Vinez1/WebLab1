@@ -36,11 +36,12 @@ dan tampilan web akan seperti ini
 
 ![tampilan web](foto/tampilan_web.png)
 
-**1. Lalu membuat Paragraf**
+## 1. Lalu membuat Paragraf
 
 selanjutnya membuat paragraf sederhana seperti dibawah ini
 
 ![paragraf](foto/paragraf.png)
+
 lalu disimpan perubahannya dan lakukan refresh pada web html tersebuat dan terajadi perubahan seperti dibawah ini
 
 ![hasil paragraf](foto/hasil_paragraf.png)
@@ -48,3 +49,14 @@ lalu disimpan perubahannya dan lakukan refresh pada web html tersebuat dan teraj
 kemudian atur paragraf seperti dibawah ini dan lihat lah perubahannya.
 
 ![ubah paragraf](foto/ubah_paragraf.png)
+
+kemudian hasil formatnya akan seperti ini.
+
+![hasil ubah](foto/hasil_ubah_paragraf.png)
+
+Simpan kembali dan amatilah perubahannya dengan 
+melakukan refresh pada web browser.
+Selanjutnya silahkan  diubah-ubah atributnya (<i>align => justify, left, right, dan center<i>) untuk melihat
+perbedaan lainnya.
+
+## 2. Menambahkan Judul
