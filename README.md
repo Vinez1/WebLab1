@@ -24,6 +24,14 @@ Mendapatkan tugas dari dosen Pemrograman Web pada pertemuan ke-2 ,yaitu:
 
 ![html di vscode](foto/tampilan_html_vscode.png)
 
-4. lalu menulis kode awal dengan menuliskan html:5
+4. lalu menulis kode awal dengan menuliskan html:5 dan hasilnya seperti dibawah ini
 
-![code awal](foto/code__awal.png)
+![code awal](foto/code_awal.png)
+
+kemudian mmengubah nama web menjadi Belajar HTML
+
+![belajar HTML](foto/ubah_title.png)
+
+dan tampilan web akan seperti ini
+
+![tampilan web](foto/tampilan_web.png)
