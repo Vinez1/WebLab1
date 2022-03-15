@@ -105,3 +105,11 @@ gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang dises
 
 ## 5. Menambahkan Hyperlink
 
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+
+![navigasi](foto/navigasi.png)
+
+Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag
+html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
+
+![hasil navigasi](foto/hasil_navigasi.png)
