@@ -72,3 +72,12 @@ Simpan perubahan tersebut dan lihat dengan melakukan refresh pada browser.
 ![hasil judul](foto/hasil_judul.png)
 
 ## 3. Memformat Teks
+
+Kita akan mencoba memformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada
+penjelasan materi pemformatan teks, sehingga tampilan codingannya seperti ini.
+
+![coding format teks](foto/codingan_format_teks.png)
+
+setelah membuat codingan seperti diatas, kalian bisa simpan kemudian lihatlah perubahannya di browser.
+
+![hasil format](foto/hasil_format_teks.png)
