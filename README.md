@@ -81,3 +81,27 @@ penjelasan materi pemformatan teks, sehingga tampilan codingannya seperti ini.
 setelah membuat codingan seperti diatas, kalian bisa simpan kemudian lihatlah perubahannya di browser.
 
 ![hasil format](foto/hasil_format_teks.png)
+
+## 4. Menyisipkan gambar
+
+Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian
+simpan file gambar tersebut satu folder dengan file dokumen html.
+
+![gambar](foto/gambar.png)
+
+Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3
+sebelumnya.
+
+![tag gambar](foto/tag_gambar.png)
+
+Simpan perubahannya, dan lihar kembali browser.
+
+![tampilan gambar](foto/tampilan_logo.png)
+
+Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran
+gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
+
+![gambar width](foto/gambar_width.png)
+
+## 5. Menambahkan Hyperlink
+
