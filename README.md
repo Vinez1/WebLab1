@@ -134,3 +134,9 @@ _parent)</i></b>, apa yang terjadi pada masing-masing nilai antribut tersebut? <
 
 Lalu ketika saya hilangkan akhiran pada Tag `</h1>` menjadi `<h1>`, maka yang akan terjadi adalah seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>`, dikarenakan tidak ada akhiran/penutup Tag tersebut.
 
+2. Tag `<p>` berfungsi untuk memberi perintah <b>paragraf</b>pada halaman HTML,
+sedangkan Tag `<br>` berfungsi untuk memberikan perintah <b>breakline</b> atau <b>baris baru, contohnya:</b>
+
+![jawaban 2](foto/pertanyaan_ke2.png)
+
+
