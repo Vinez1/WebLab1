@@ -149,6 +149,19 @@ dan ini codingannya <br>
 
 ![coding alt title](foto/codingan_title_alt.png)
 
-pada codingan <b>`alt`</b> sengaja ditulis nama file tidak lengkap, dikarenakan hanya untuk menampilkan fungsi dari alt
+pada codingan <b>`alt`</b> sengaja ditulis nama file tidak lengkap, dikarenakan hanya untuk menampilkan fungsi dari alt <br>
 
+4. Menurut saya kedua properti ini sangat penting dan merupakan
+bagian yang tidak terpisahkan dari sebuah website karena masing masing
+Tag atau Element pada sebuah HTML perlu memiliki ukuran yang ideal,
+sebab itu berpengaruh dalam pengaturan tata letak dan tampilan
+sebuah website,
+<br>
+kecuali pada kondisi tertentu seperti gambar sudah memiliki 
+ukuran yang pas tau proporsional cukup mengatur widthnya saja <br>
+
+![gambar nomor 4](foto/gambar_nomor4.png)
+
+dan codingannya seperti ini.
+![coding nomor 4](foto/codingan_nomer4.png)
 
