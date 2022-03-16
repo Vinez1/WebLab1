@@ -122,6 +122,15 @@ error ketika terjadi kesalahan penulisan tag? <br>
 3. Apa perbedaan atribut title dan alt pada tag `<img>`, berikan penjelasannya! <br>
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! <br>
-5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
-_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? <br>
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi <i><b>(_blank, _self, _top,
+_parent)</i></b>, apa yang terjadi pada masing-masing nilai antribut tersebut? <br>
+
+## Jawaban Pertanyaan
+
+1. Saya akan melakukan perubahan pada tag HTML,
+        gambar yang dibawah ini merupakan <b>syntax HTML</b>di aplikasi VScode sebelum saya merubahnya. <br>
+    
+    ![jawaban 1](foto/pertanyaan_ke1.png)
+
+Lalu ketika saya hilangkan akhiran pada Tag `</h1>` menjadi `<h1>`, maka yang akan terjadi adalah seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>`, dikarenakan tidak ada akhiran/penutup Tag tersebut.
 
