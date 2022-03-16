@@ -139,4 +139,16 @@ sedangkan Tag `<br>` berfungsi untuk memberikan perintah <b>breakline</b> atau <
 
 ![jawaban 2](foto/pertanyaan_ke2.png)
 
+3. `title` berfungsi untuk menunjukan judul pada gambar, lalu `alt`
+berfungsi untuk menunjukan sebuah alternatif teks <i>(teks pengganti)</i> 
+yang akan muncul apabila gambar tidak dapat ditampilkan.<br>
+
+![gambar alt title](foto/gambar_title_alt.png)
+
+dan ini codingannya <br>
+
+![coding alt title](foto/codingan_title_alt.png)
+
+pada codingan <b>`alt`</b> sengaja ditulis nama file tidak lengkap, dikarenakan hanya untuk menampilkan fungsi dari alt
+
 
