@@ -165,3 +165,15 @@ ukuran yang pas tau proporsional cukup mengatur widthnya saja <br>
 dan codingannya seperti ini.
 ![coding nomor 4](foto/codingan_nomer4.png)
 
+5. `_blank` digunakan untuk membuka link tab baru. <br>
+`_self` digunakan untuk membuka link di frame link itu berada.<br>
+`_top` digunakan untuk membuka lik di frame paling atas(paling luar).
+contohnya jika di website(1) dan didalamnya ada website(2) lalu di wesite (2) 
+didalamnya ada website(3) lalu di website(3) ini ada link, 
+dan kita klik maka akan terbuka wesite(1).<br>
+`_parent` digunakan untuk membuka link di frame yang satu tingkat 
+diatas frame link tersebut berada. Contohnya jika di website(1)
+didalamnya  ada website(2) lalu di website(2) ini ada link dan 
+kita klik, maka yang akan terbuka adalah website(1).<br> 
+
+
